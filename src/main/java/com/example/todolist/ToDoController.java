@@ -1,4 +1,4 @@
-package todolist.todo;
+package com.example.todolist;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
